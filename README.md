@@ -29,3 +29,7 @@ pip install -r requirements.txt
 Run the application:
 
 streamlit run app.py
+
+## Application Screenshot
+
+![AI Resume Screening System](resume_screenshot.png)
